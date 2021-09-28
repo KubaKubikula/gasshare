@@ -8,6 +8,6 @@ technologies
 - python django backend
 - react frontend
 
-
+https://github.com/18F/docker-compose-django-react
 nápady
 https://flutter.dev/
