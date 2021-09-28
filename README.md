@@ -7,3 +7,7 @@ technologies
 - google map api
 - python django backend
 - react frontend
+
+
+nápady
+https://flutter.dev/
