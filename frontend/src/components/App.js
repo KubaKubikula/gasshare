@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from '../img/logo.svg';
 import '../css/App.css';
 import { GoogleLogin } from 'react-google-login';
-
 import {
   BrowserRouter as Router,
   Switch,
